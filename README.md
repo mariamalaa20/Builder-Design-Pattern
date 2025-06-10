@@ -13,7 +13,7 @@ A simple Java implementation of the Factory Design Pattern to create different t
 - Java 8 or later
 - IDE (e.g., IntelliJ IDEA, Eclipse, VS Code)
 
-## 🛠️ Installation
+## Installation
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/your-repo.git
