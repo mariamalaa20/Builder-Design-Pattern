@@ -1,15 +1,15 @@
 
-# ✨ Computer Factory Pattern Implementation
+# Computer Factory Pattern Implementation
 
 A simple Java implementation of the Factory Design Pattern to create different types of computers dynamically.
 
-## 🌟 Features
+## Features
 - Uses an **abstract class** to define a computer blueprint.
 - Implements **Factory Design Pattern** for object creation.
 - Supports **PC** and **Server** classes with specific configurations.
 - Encapsulates object instantiation in the `ServerFactory` and `PCFactory` classes.
 
-## ⚙️ Requirements
+## Requirements
 - Java 8 or later
 - IDE (e.g., IntelliJ IDEA, Eclipse, VS Code)
 
@@ -23,7 +23,7 @@ cd your-repo
 javac *.java
 ```
 
-## 📚 Project Structure
+## Project Structure
 ```
 .
 ├── Computer.java      # Abstract class for Computer
@@ -35,7 +35,7 @@ javac *.java
 ├── Main.java          # Main class to test the implementation
 ```
 
-## ⚡ Usage
+## Usage
 ```java
 public class Main {
     public static void main(String[] args) {
@@ -46,7 +46,7 @@ public class Main {
 }
 ```
 
-## 💡 Future Enhancements
+## Future Enhancements
 - Add a `Laptop` class to extend functionality.
 - Implement a `ComputerFactory` for generalized object creation.
 - Introduce unit tests for validation.
